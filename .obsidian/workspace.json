@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading Notes/PaperNotes.md",
+                "file": "Linux Kernel/KVM/ioregionfd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PaperNotes"
+              "title": "ioregionfd"
             }
           }
         ]
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux Kernel/KVM/ioregionfd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "ioregionfd 的出链列表"
             }
           },
           {
@@ -127,10 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
@@ -139,10 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Kernel/Linux kernel basic.md"
+                "file": "Linux Kernel/KVM/ioregionfd.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Linux kernel basic 的大纲"
+              "title": "ioregionfd 的大纲"
             }
           },
           {
@@ -175,14 +181,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34412f4a30fc9c94",
+  "active": "b90a1f68b7bf177e",
   "lastOpenFiles": [
-    "resources/Pasted image 20250212100415.png",
+    "Linux Kernel/Linux kernel basic.md",
+    "Linux Kernel/KVM/ioregionfd.md",
+    "Linux Kernel/内核基础",
+    "Linux Kernel/KVM",
     "Reading Notes/PaperNotes.md",
+    "resources/Pasted image 20250212100415.png",
     "resources",
     "resources/Pasted image 20250212100444.png",
     "Programing/C++/Basic Syntax.md",
-    "Linux Kernel/Linux kernel basic.md",
     "resources/Pasted image 20250212103947.png",
     "未命名.canvas",
     "Programing/Rust",
