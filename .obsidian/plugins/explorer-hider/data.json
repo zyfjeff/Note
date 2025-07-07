@@ -1,0 +1,14 @@
+{
+  "useSnippets": false,
+  "showAll": false,
+  "snippets": [
+    {
+      "path": "resources",
+      "type": "folder",
+      "hiddenInNav": true,
+      "hiddenInBookmarks": false
+    }
+  ],
+  "alwaysHideInBookmarks": false,
+  "buttonInContextBookmark": false
+}
