@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 200
   },
   "right": {
     "id": "396ea353cbc1ae26",
@@ -196,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4737d53a910f9439",
+  "active": "38991762b6009a01",
   "lastOpenFiles": [
     "Programing/C++/Basic Syntax.md",
     "Linux Kernel/KVM/ioregionfd.md",

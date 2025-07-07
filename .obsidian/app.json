@@ -1,4 +1,8 @@
 {
-  "newFileLocation": "folder",
-  "newFileFolderPath": "/resources"
+  "newFileLocation": "current",
+  "newFileFolderPath": "/resources",
+  "attachmentFolderPath": "/resources",
+  "userIgnoreFilters": [
+    "resources/"
+  ]
 }
